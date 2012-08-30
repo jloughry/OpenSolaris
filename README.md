@@ -1,7 +1,7 @@
 OpenSolaris bug reports
 =======================
 
-Bug [http://wesunsolve.net/bugid/id/6329516](6329516) was fixed in patches
+Bug [http://wesunsolve.net/bugid/id/6329516] (6329516) was fixed in patches
 138874-02 and 138875-02 by Sun Microsystems, Inc.
 
     General information
