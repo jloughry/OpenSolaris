@@ -33,3 +33,5 @@ sync:
 readme:
 	vi $(documentation)
 
+clean:
+	@echo "\"make clean\" doesn't do anything here."
